@@ -1,0 +1,6 @@
+{
+  "name": "Day Notes",
+  "description": "Daily notes and journaling app to quickly add thoughts, view today's entries, browse all notes, and search notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
